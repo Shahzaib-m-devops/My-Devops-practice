@@ -1,0 +1,43 @@
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 142.250.202.46
+Name:	google.com
+Address: 2a00:1450:4018:80f::200e
+
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	youtube.com
+Address: 142.250.202.206
+Name:	youtube.com
+Address: 2a00:1450:4018:811::200e
+
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	instagram.com
+Address: 157.240.227.174
+Name:	instagram.com
+Address: 2a03:2880:f267:e5:face:b00c:0:4420
+
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	facebook.com
+Address: 157.240.227.35
+Name:	facebook.com
+Address: 2a03:2880:f167:81:face:b00c:0:25de
+
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 20.207.73.82
+
