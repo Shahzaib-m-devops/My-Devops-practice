@@ -1,0 +1,6 @@
+Created folder: 2026-05-10
+Subfolders created: disk, process, networking
+Full path: ~/practice/2026-05-10/
+disk
+networking
+process
