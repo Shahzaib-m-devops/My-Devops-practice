@@ -1,0 +1,6 @@
+google.com
+facebook.com
+github.com
+coursera.com
+youtube.com
+picsart.com
