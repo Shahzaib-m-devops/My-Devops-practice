@@ -1,0 +1,6 @@
+geeksforgeeks.org
+deepseek.com
+google.com
+coursera.org
+github.com
+youtube.com
