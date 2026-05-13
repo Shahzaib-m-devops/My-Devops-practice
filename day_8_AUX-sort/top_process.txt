@@ -1,0 +1,11 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          43  1.6  0.3  66836 15264 ?        S<s  22:47   0:09 /usr/lib/systemd/systemd-journald
+root           1  0.3  0.3  21640 12256 ?        Ss   22:47   0:01 /sbin/init
+root          92  0.2  0.1  25144  6016 ?        Ss   22:47   0:01 /usr/lib/systemd/systemd-udevd
+message+     173  0.1  0.1   9628  4736 ?        Ss   22:47   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+systemd+     148  0.0  0.3  21460 12672 ?        Ss   22:47   0:00 /usr/lib/systemd/systemd-resolved
+root         186  0.0  0.2  17968  8320 ?        Ss   22:47   0:00 /usr/lib/systemd/systemd-logind
+systemd+     153  0.0  0.1  91028  7680 ?        Ssl  22:47   0:00 /usr/lib/systemd/systemd-timesyncd
+shahzai+     366  0.0  0.2  20312 11136 ?        Ss   22:47   0:00 /usr/lib/systemd/systemd --user
+root         188  0.0  0.3 1756620 12928 ?       Ssl  22:47   0:00 /usr/libexec/wsl-pro-service
+root         220  0.0  0.5 107008 22016 ?        Ssl  22:47   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
