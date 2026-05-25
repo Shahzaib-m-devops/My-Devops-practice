@@ -1,0 +1,5 @@
+IF file is available:
+File exists
+-rw-r--r-- 1 shahzaib_mughal shahzaib_mughal 0 May 26 00:41 /home/shahzaib_mughal/practice/test_check.txt
+If not then :
+File created successfully
